@@ -1262,7 +1262,7 @@
   justify-content: center;
   align-items: center;
   min-height: 50vh;
-  background: url(images/Banner-3-1.webp) center center/cover;
+  background: url(Banner-3-1.webp) center center/cover;
 }
 
 .sec-07 h1 {
@@ -1354,7 +1354,7 @@
     align-items: center;
     width: 100%;
     min-height: 50vh;
-    background: url(images/Banner-3-1.webp) center center/cover;
+    background: url(Banner-3-1.webp) center center/cover;
 }
 .sec-07boxes{
     display: flex;
@@ -1532,7 +1532,7 @@
   background-color: #ededed;
   padding: 30px 0px;
   box-sizing: border-box;
-  background: url(images/testimonial-bcg.jpg) center center/cover fixed;
+  background: url(testimonial-bcg.jpg) center center/cover fixed;
   position: relative;
   z-index: 1;
 }
